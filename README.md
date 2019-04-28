@@ -1,2 +1,2 @@
 # Coding-Games
-<b>1Wood </b> `ghost in the cell`  
+<b>1Wood  </b> `Ghost in the Cell`  
